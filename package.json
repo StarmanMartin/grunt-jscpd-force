@@ -1,8 +1,8 @@
 {
-  "name": "grunt-jscpd",
+  "name": "grunt-jscpd-force",
   "version": "0.0.11",
   "author": {
-    "name": "Mathieu Desvé"
+    "name": "Martin Starman"
   },
   "description": "Grunt task for use JSCPD lib",
   "main": "Gruntfile.js",
