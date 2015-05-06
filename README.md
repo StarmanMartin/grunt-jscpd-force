@@ -15,12 +15,12 @@ Installation
 ------------
 
 ```bash
-npm install grunt-jscpd
+npm install grunt-jscpd-force
 ```
 
 ```javascript
 // Gruntfile.js
-grunt.loadNpmTasks('grunt-jspcpd');
+grunt.loadNpmTasks('grunt-jspcpd-force');
 ```
 
 Usage
