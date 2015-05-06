@@ -52,9 +52,19 @@ Options
 ### Data
 
 #### path
+Type: `String` or `Array`
+
+Path to source folder
+
+#### cwd
 Type: `String`
 
 Path to source folder
+
+#### force
+Type: `BOOL` default false
+
+if false grunt stops on error
 
 #### exclude
 Type: `String|Array` - optional
