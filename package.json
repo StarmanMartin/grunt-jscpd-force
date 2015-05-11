@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mazerte/grunt-jscpd"
+    "url": "git://github.com/StarmanMartin/grunt-jscpd-force"
   },
   "keywords": [
     "grunt",
